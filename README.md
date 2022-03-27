@@ -20,3 +20,11 @@ A familiarity of Pandas datastructures.
 An understanding of how to compute a regression line.
 Optional: Building a Brain in 10 Minutes. A hands-on historical overview of the very first neural networks.
 Tools, libraries, frameworks used: TensorFlow 2 with Keras, Pandas
+
+1: An Introduction to Deep Learning
+2: The Theory Behind Neural Networks
+3: Convolutional Neural Networks
+4: Data Augmentation and Deployment
+5: Pre-trained Models
+6: Recurrent Neural Networks
+7: Wrap-up and Assessment
